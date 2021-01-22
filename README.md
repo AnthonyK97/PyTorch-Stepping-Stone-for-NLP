@@ -8,7 +8,7 @@ NLP PyTorch Tutorials 🔥 modification for "eat_pytorch_in_20_days" 🤔
 
 ## 2. Have Done
 * Dataset  
-** IMDB  
+  * IMDB    
 * Models  
-** CNN (+ Glove vec)  
-** BiLSTM (+ Glove vec)  
+  ** CNN (+ Glove vec)  
+  ** BiLSTM (+ Glove vec)  
