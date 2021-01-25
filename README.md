@@ -1,4 +1,4 @@
-# PyTorch-Stepping-Stone-for-NLP
+# PyTorch-Tutorials-for-NLP
 * My PyTorch Learning Notebook 📚  
 * NLP PyTorch Tutorials 🔥   
 * Modification of "eat_pytorch_in_20_days" 🤔
