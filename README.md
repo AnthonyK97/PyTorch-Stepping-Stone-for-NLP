@@ -13,3 +13,5 @@
 ### Models  
 * CNN (+ Glove vec)  
 * BiLSTM (+ Glove vec)  
+* BiLSTM + SelfAttention  
+
